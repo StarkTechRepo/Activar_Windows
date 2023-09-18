@@ -18,8 +18,6 @@ El script utiliza los siguientes comandos de Windows para realizar diferentes ac
 
 - **`slmgr /cpky`**: Elimina la clave de producto de Windows del sistema.
 
-Además, el script proporciona información sobre las claves de producto OEM, que son preinstaladas por fabricantes de computadoras y están vinculadas al hardware específico de cada máquina.
-
 Recuerda que este script debe utilizarse de manera legal y respetar los términos de licencia de Microsoft. Las claves de producto deben ser legítimas y estar en conformidad con las políticas de licencia aplicables.
 
 ## Licencia
