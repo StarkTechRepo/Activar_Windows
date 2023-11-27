@@ -4,6 +4,16 @@ Este script es una herramienta útil para aquellos que necesitan administrar la 
 
 ---
 
+# Licencias OEM en Windows
+
+Las licencias OEM (Original Equipment Manufacturer) son un tipo específico de licencia de software que está asociada con el hardware en el que se instala inicialmente. Estas licencias son comúnmente utilizadas por fabricantes de equipos originales y se diferencian de las licencias minoristas.
+
+La licencia OEM está vinculada al componente principal del hardware en el que se preinstala, generalmente la placa base. Esto significa que la licencia suele ser válida solo para ese componente específico.
+
+Las licencias OEM generalmente no son transferibles a otro hardware. Si cambias o actualizas el componente principal, la licencia OEM asociada al hardware original puede no ser transferible.
+
+---
+
 # Comandos Disponibles
 
 El script utiliza los siguientes comandos de Windows para realizar diferentes acciones relacionadas con la activación de Windows:
@@ -21,16 +31,6 @@ El script utiliza los siguientes comandos de Windows para realizar diferentes ac
 - ````slmgr /cpky````: Elimina la clave de producto de Windows del sistema.
 
 Recuerda que este script debe utilizarse de manera legal y respetar los términos de licencia de Microsoft. Las claves de producto deben ser legítimas y estar en conformidad con las políticas de licencia aplicables.
-
----
-
-# Licencias OEM en Windows
-
-Las licencias OEM (Original Equipment Manufacturer) son un tipo específico de licencia de software que está asociada con el hardware en el que se instala inicialmente. Estas licencias son comúnmente utilizadas por fabricantes de equipos originales y se diferencian de las licencias minoristas.
-
-La licencia OEM está vinculada al componente principal del hardware en el que se preinstala, generalmente la placa base. Esto significa que la licencia suele ser válida solo para ese componente específico.
-
-Las licencias OEM generalmente no son transferibles a otro hardware. Si cambias o actualizas el componente principal, la licencia OEM asociada al hardware original puede no ser transferible.
 
 ---
 
