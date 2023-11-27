@@ -1,10 +1,10 @@
-#ctivación de Windows
+# ctivación de Windows
 
 Este script es una herramienta útil para aquellos que necesitan administrar la activación de Windows de manera sencilla y rápida utilizando los comandos mencionados anteriormente. Puedes seleccionar las opciones del menú según tus necesidades y seguir las instrucciones proporcionadas para realizar diversas acciones relacionadas con la licencia de Windows.
 
 ---
 
-## Comandos Disponibles
+# Comandos Disponibles
 
 El script utiliza los siguientes comandos de Windows para realizar diferentes acciones relacionadas con la activación de Windows:
 
@@ -34,8 +34,8 @@ Las licencias OEM generalmente no son transferibles a otro hardware. Si cambias 
 
 ---
 
-## Licencia
+# Licencia
 Este proyecto está bajo la licencia [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Puedes compartir, adaptar y utilizar estos archivos siempre que des el crédito correspondiente al autor original.
 
-## Dando Estrella
+# Dando Estrella
 Si encuentras útiles estos scripts o te han ayudado de alguna manera, ¡por favor considera darle una estrella a este repositorio! Tu apoyo es muy apreciado y nos ayuda a seguir compartiendo recursos útiles con la comunidad.
