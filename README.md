@@ -3,14 +3,15 @@
 Este script es una herramienta útil para aquellos que necesitan administrar la activación de Windows de manera sencilla y rápida utilizando los comandos mencionados anteriormente. Puedes seleccionar las opciones del menú según tus necesidades y seguir las instrucciones proporcionadas para realizar diversas acciones relacionadas con la licencia de Windows.
 
 ---
-
 # Licencias OEM en Windows
 
 Las licencias OEM (Original Equipment Manufacturer) son un tipo específico de licencia de software que está asociada con el hardware en el que se instala inicialmente. Estas licencias son comúnmente utilizadas por fabricantes de equipos originales y se diferencian de las licencias minoristas.
 
 La licencia OEM está vinculada al componente principal del hardware en el que se preinstala, generalmente la placa base. Esto significa que la licencia suele ser válida solo para ese componente específico.
 
-Las licencias OEM generalmente no son transferibles a otro hardware. Si cambias o actualizas el componente principal, la licencia OEM asociada al hardware original puede no ser transferible.
+En cuanto a la transferibilidad, la licencia OEM generalmente no es transferible a otro hardware. Sin embargo, algunas licencias OEM permiten la transferencia según el tipo de licencia y las políticas específicas del fabricante. Algunos fabricantes ofrecen licencias OEM que son transferibles en ciertas condiciones.
+
+Es importante tener en cuenta que la transferibilidad de las licencias OEM puede variar según el lugar donde se adquieran. Algunos proveedores o distribuidores pueden ofrecer condiciones específicas que permitan la transferencia de la licencia OEM a varios dispositivos, mientras que otros pueden mantener restricciones más estrictas. Por lo tanto, es recomendable revisar los términos y condiciones al adquirir una licencia OEM para comprender las limitaciones y posibilidades de transferencia.
 
 ---
 
