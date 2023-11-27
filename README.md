@@ -9,7 +9,7 @@ Las licencias OEM (Original Equipment Manufacturer) son un tipo específico de l
 
 La licencia OEM está vinculada al componente principal del hardware en el que se preinstala, generalmente la placa base. Esto significa que la licencia suele ser válida solo para ese componente específico.
 
-En cuanto a la transferibilidad, la licencia OEM generalmente no es transferible a otro hardware. Sin embargo, algunas licencias OEM permiten la transferencia según el tipo de licencia y las políticas específicas del fabricante. Algunos fabricantes ofrecen licencias OEM que son transferibles en ciertas condiciones.
+La licencia OEM generalmente no es transferible a otro hardware. Sin embargo, algunas licencias OEM permiten la transferencia según el tipo de licencia y las políticas específicas del fabricante. Algunos fabricantes ofrecen licencias OEM que son transferibles en ciertas condiciones.
 
 Es importante tener en cuenta que la transferibilidad de las licencias OEM puede variar según el lugar donde se adquieran. Algunos proveedores o distribuidores pueden ofrecer condiciones específicas que permitan la transferencia de la licencia OEM a varios dispositivos, mientras que otros pueden mantener restricciones más estrictas. Por lo tanto, es recomendable revisar los términos y condiciones al adquirir una licencia OEM para comprender las limitaciones y posibilidades de transferencia.
 
