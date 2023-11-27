@@ -1,4 +1,4 @@
-# ctivación de Windows
+# Activación de Windows
 
 Este script es una herramienta útil para aquellos que necesitan administrar la activación de Windows de manera sencilla y rápida utilizando los comandos mencionados anteriormente. Puedes seleccionar las opciones del menú según tus necesidades y seguir las instrucciones proporcionadas para realizar diversas acciones relacionadas con la licencia de Windows.
 
